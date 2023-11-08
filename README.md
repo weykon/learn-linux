@@ -1,5 +1,5 @@
 # learn linux
-
+https://github.com/weykon/all-about-Linux 从这里继续学习
 背书
 
 /bin 用户二进制
