@@ -10,3 +10,16 @@ https://github.com/weykon/all-about-Linux 从这里继续学习
 /var 存经常会变的数据
 /usr 用户内容
 /sbin 系统级别的二进制
+
+# TMUX
+我把<C-B>改为<C-A>，也不知道从哪里看到这么说的。
+```
+set -g default-terminal "screen-256color"
+set -g prefix C-a
+unbind C-b
+bind-key C-a send-prefix
+bind-key h select-pane -L
+bind-key j select-pane -D
+bind-key l select-pane -R
+bind-key k select-pane -U
+```
