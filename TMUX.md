@@ -1,8 +1,6 @@
 C a q + num 很好玩
 
 
-
-
 # 要区分一下两个概念
 
 window 和 pane
@@ -26,6 +24,6 @@ window 和 pane
 切换到下一个窗格：Ctrl+b o
 切换到特定窗格：Ctrl+b q 然后按窗格编号
 关闭当前窗格：Ctrl+b x
-调整窗格大小：Ctrl+b 后跟 方向键（上下左右）
+调整窗格大小：Ctrl+b 后跟  alt + 方向键（上下左右快速按）
 转换窗格为窗口：Ctrl+b !
 在窗格之间移动当前窗口：Ctrl+b { 或 Ctrl+b }
