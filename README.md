@@ -12,7 +12,9 @@ https://github.com/weykon/all-about-Linux 从这里继续学习
 /sbin 系统级别的二进制
 
 # TMUX
-我把<C-B>改为<C-A>，也不知道从哪里看到这么说的。
+我把`<C-B>`改为`<C-A>`，也不知道从哪里看到这么说的。 
+
+**我发现这有一个好处，就是在多个机器层的tmux下区分是哪个机器的命令。**
 ```
 set -g default-terminal "screen-256color"
 set -g prefix C-a
